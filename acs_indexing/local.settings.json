@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "retraiverdev_STORAGE": "DefaultEndpointsProtocol=https;AccountName=retraiverdev;AccountKey=GwAjhB5As4H2T/xaBhwcKSvyvWNlS9L8uWobxSsWB9y/Xk10+L9nRHJcM7uYNe6lFc5gdDN5hFuQ+AStHdrtxw==;EndpointSuffix=core.windows.net"
+  }
+}
